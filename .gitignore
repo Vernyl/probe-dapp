@@ -7,6 +7,7 @@ packages/*/.env
 *.ipr
 *.iws
 .idea
+/.idea
 
 *.gitkeep
 
