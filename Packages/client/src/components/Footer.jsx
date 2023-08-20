@@ -11,7 +11,7 @@ export default function Footer() {
                 <div className="col-xl-4 col-lg-4 col-md-6">
                     <div className="footer-widget mb-40">
                     {/*<div className="footer-logo mb-25">*/}
-                    {/*    Probe*/}
+                    {/*    Packages*/}
                     {/*</div>*/}
                     <div className="social-icon mb-20">
                         <a href="#">
